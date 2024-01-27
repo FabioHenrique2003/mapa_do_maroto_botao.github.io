@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: url('https://images.ctfassets.net/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png');
+
+  }
+
+  label {
+    display: flex;
+    margin-bottom: 8px;
+  }
+
+  input {
+    width: 50%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+
+  #result {
+    margin-top: 16px;
+  }
